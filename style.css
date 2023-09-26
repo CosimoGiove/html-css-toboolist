@@ -1,3 +1,6 @@
-body{
-background-color: red;
+   /** formattazione margin, padding**/
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
 }
