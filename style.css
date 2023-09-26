@@ -7,7 +7,7 @@ font-family:'Roboto Mono', monospace;
 }
 
 body{
-background-color: #d5d5d5;
+background-color: #eaeaea;
 height: 800px;
 }
 /** header**/
@@ -42,7 +42,10 @@ background-color: #14aaf5;
 color: white;
 border-radius: 5px;
 border: 2px solid #14aaf5;
-
+}
+.bottoni{
+border-bottom: 2px solid #eaeaea;
+padding:10px
 }
 
 .button2{
@@ -56,9 +59,11 @@ border: 2px solid #14aaf5;
  /** fine button**/
 .contenitore{
     width: 70%;
-    height: 550px;
+    height: 650px;
     background-color: white;
     margin: auto;
+    margin-top:20px;
+    border-radius: 10px;
 }
    /**inizio task**/
 .task{
