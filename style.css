@@ -3,4 +3,19 @@
 margin: 0px;
 padding: 0px;
 box-sizing: border-box;
+font-family:'Roboto Mono', monospace;
+}
+/** header**/
+header{
+background-color: white;
+padding: 5px;
+}
+
+ header  img{
+vertical-align: middle;
+}
+
+.logo{
+display: inline-block;
+vertical-align: middle;
 }
