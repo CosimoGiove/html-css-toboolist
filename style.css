@@ -5,6 +5,11 @@ padding: 0px;
 box-sizing: border-box;
 font-family:'Roboto Mono', monospace;
 }
+
+body{
+background-color: #d5d5d5;
+height: 800px;
+}
 /** header**/
 header{
 background-color: white;
@@ -27,7 +32,7 @@ width: 70%;
 background-color: white;
 margin: auto;
 padding: 10px;
-margin-top: 50px;
+margin-top: 40px;
 }
  /**button**/
 .button{
@@ -52,9 +57,9 @@ border: 2px solid #14aaf5;
  /** fine button**/
 .contenitore{
     width: 70%;
-    background-color: yellow;
+    height: 550px;
+    background-color: white;
     margin: auto;
-    margin-top: 4px;
 }
    /**inizio task**/
 .task{
@@ -115,4 +120,13 @@ background-color: green;
 background-color: orange;
  }
  /**fine seconda sezione**/
- 
+
+ /**inizio   terza  sezione**/
+
+ .fucsia{
+background-color: #ec4a9d;
+ }
+
+ .verde{
+background-color: #a3d116;
+ }
