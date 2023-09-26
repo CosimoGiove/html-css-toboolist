@@ -19,3 +19,33 @@ vertical-align: middle;
 display: inline-block;
 vertical-align: middle;
 }
+
+/**main**/
+.main{
+width: 70%;
+background-color: white;
+margin: auto;
+padding: 10px;
+}
+
+.button{
+margin-left: 50px;
+width: 100px;
+height: 30px;
+background-color: #14aaf5;
+color: white;
+border-radius: 5px;
+border: 2px solid #14aaf5;
+
+}
+
+.button2{
+    width: 100px;
+    height: 30px;
+    background-color:white;
+    color: #cdd3d8;
+    border-radius: 5px;
+    border: 2px solid #cdd3d8;
+}
+
+
